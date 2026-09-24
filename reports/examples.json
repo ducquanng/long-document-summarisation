@@ -1,0 +1,90 @@
+{
+  "truncate": {
+    "id": "dc833f8b55e381011ce23f89ea909b9a141b5a66",
+    "rouge1": 0.24096385542168675,
+    "rouge2": 0.07407407407407407,
+    "rougeL": 0.1686746987951807,
+    "seconds": 2.2400646209716797,
+    "n_chunks": 1,
+    "ordered": true,
+    "n_words": 38,
+    "summary": "Walmart's opposition to religious freedom law in Arkansas is latest sign of growing support for gay rights in the heartland . The company's opposition is a sign of a growing support of gay rights for the company ."
+  },
+  "lead": {
+    "id": "dc833f8b55e381011ce23f89ea909b9a141b5a66",
+    "rouge1": 0.22764227642276422,
+    "rouge2": 0.08264462809917356,
+    "rougeL": 0.14634146341463417,
+    "seconds": 0.00011181831359863281,
+    "n_chunks": 0,
+    "ordered": true,
+    "n_words": 77,
+    "summary": "(CNN)As goes Walmart, so goes the nation? Everyone from Apple CEO Tim Cook to the head of the NCAA slammed religious freedom laws being considered in several states this week, warning that they would open the door to discrimination against gay and lesbian customers. But it was the opposition from Walmart, the ubiquitous retailer that dots the American landscape, that perhaps resonated most deeply, providing the latest evidence of growing support for gay rights in the heartland."
+  },
+  "sequential": {
+    "id": "dc833f8b55e381011ce23f89ea909b9a141b5a66",
+    "rouge1": 0.203125,
+    "rouge2": 0.06349206349206349,
+    "rougeL": 0.109375,
+    "seconds": 4.363243341445923,
+    "n_chunks": 2,
+    "ordered": true,
+    "n_words": 85,
+    "summary": "Walmart's opposition to religious freedom law in Arkansas is latest sign of growing support for gay rights in the heartland . The company's opposition is a sign of a growing support of gay rights for the company . Sen. Ted Cruz of Texas says he has no interest in second-guessing Pence . Hillary Clinton calls on Arkansas governor to veto the Arkansas bill . The Little Rock Regional Chamber of Commerce CEO says businesses are not afraid to wade into a politically controversial debate ."
+  },
+  "clustered_ordered": {
+    "id": "dc833f8b55e381011ce23f89ea909b9a141b5a66",
+    "rouge1": 0.17699115044247787,
+    "rouge2": 0.03571428571428571,
+    "rougeL": 0.08849557522123894,
+    "seconds": 10.576116800308228,
+    "n_chunks": 4,
+    "ordered": true,
+    "n_words": 183,
+    "summary": "Walmart's opposition to a religious freedom law in Arkansas puts the company at odds with many in the Republican Party . The company's political action committee has tended to support the GOP, which the company's PAC has tended. The backlash over religious freedom laws in Indiana and Arkansas is shining a bright light on the broader business community's support for workplace policies that promote gay equality . Business leaders of all political persuasions have been supportive of the policies . The Human Rights Campaign says businesses are not afraid to wade into a politically controversial debate to ensure inclusive workplace policies National Republicans are being forced to walk the fine line of protecting religious liberties and supporting nondiscrimination . Others in the GOP field are digging in . In 2014, the PAC spent about $1.3 million to support Republicans and around $970,000 for Democrats . Indiana Gov. Mike Pence signed his state's religious freedom bill into law . CEOs of companies big and small across the country threatened to pull out of the Hoosier state . The debate has reached presidential politics ."
+  },
+  "clustered_scrambled": {
+    "id": "dc833f8b55e381011ce23f89ea909b9a141b5a66",
+    "rouge1": 0.17699115044247787,
+    "rouge2": 0.03571428571428571,
+    "rougeL": 0.08849557522123894,
+    "seconds": 7.6937854290008545,
+    "n_chunks": 4,
+    "ordered": false,
+    "n_words": 183,
+    "summary": "The backlash over religious freedom laws in Indiana and Arkansas is shining a bright light on the broader business community's support for workplace policies that promote gay equality . Business leaders of all political persuasions have been supportive of the policies . The Human Rights Campaign says businesses are not afraid to wade into a politically controversial debate to ensure inclusive workplace policies Indiana Gov. Mike Pence signed his state's religious freedom bill into law . CEOs of companies big and small across the country threatened to pull out of the Hoosier state . The debate has reached presidential politics . National Republicans are being forced to walk the fine line of protecting religious liberties and supporting nondiscrimination . Others in the GOP field are digging in . In 2014, the PAC spent about $1.3 million to support Republicans and around $970,000 for Democrats . Walmart's opposition to a religious freedom law in Arkansas puts the company at odds with many in the Republican Party . The company's political action committee has tended to support the GOP, which the company's PAC has tended."
+  },
+  "sequential_reduced": {
+    "id": "dc833f8b55e381011ce23f89ea909b9a141b5a66",
+    "rouge1": 0.27906976744186046,
+    "rouge2": 0.09523809523809525,
+    "rougeL": 0.1627906976744186,
+    "seconds": 5.877857446670532,
+    "n_chunks": 2,
+    "ordered": true,
+    "n_words": 42,
+    "summary": "Walmart's opposition to religious freedom law in Arkansas is latest sign of growing support for gay rights in the heartland . The Little Rock Regional Chamber of Commerce CEO says businesses are not afraid to wade into a politically controversial debate ."
+  },
+  "clustered_ordered_reduced": {
+    "id": "dc833f8b55e381011ce23f89ea909b9a141b5a66",
+    "rouge1": 0.1730769230769231,
+    "rouge2": 0.0392156862745098,
+    "rougeL": 0.11538461538461539,
+    "seconds": 12.768064022064209,
+    "n_chunks": 4,
+    "ordered": true,
+    "n_words": 59,
+    "summary": "Walmart's political action committee has tended to support the GOP, which the company's PAC has tended . The backlash over religious freedom laws in Indiana and Arkansas is shining a bright light on the broader business community's support for workplace policies that promote gay equality . Business leaders of all political persuasions have been supportive of the policies ."
+  },
+  "clustered_scrambled_reduced": {
+    "id": "dc833f8b55e381011ce23f89ea909b9a141b5a66",
+    "rouge1": 0.20560747663551404,
+    "rouge2": 0.05714285714285714,
+    "rougeL": 0.13084112149532712,
+    "seconds": 9.911381244659424,
+    "n_chunks": 4,
+    "ordered": false,
+    "n_words": 64,
+    "summary": "The backlash over religious freedom laws in Indiana and Arkansas is shining a bright light on the broader business community's support for workplace policies that promote gay equality . Business leaders of all political persuasions have been supportive of the policies . The Human Rights Campaign says businesses are not afraid to wade into a politically controversial debate to ensure inclusive workplace policies ."
+  }
+}

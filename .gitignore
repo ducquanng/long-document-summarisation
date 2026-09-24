@@ -1,0 +1,11 @@
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+chroma_db*/
+data/
+data/cache/
+
+# macOS Finder metadata
+.DS_Store
